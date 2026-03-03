@@ -1,3 +1,39 @@
 body{
-   background-color: #1e248b;
+   background-color: #393e9c;
+}
+
+
+.header h1{
+   color: antiquewhite;
+   text-align: center;
+
+}
+
+
+
+
+
+.header .navigation-bar ul {
+  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.header .navigation-bar ul li {
+  float: left;
+}
+
+.header .navigation-bar ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.header .navigation-bar ul li a:hover {
+  background-color: #111111;
 }
