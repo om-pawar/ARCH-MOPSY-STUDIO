@@ -1,12 +1,10 @@
 body{
-   background-color: #393e9c;
+   background-color: #7e84f1;
 }
 
-
-/*.header h1{
-   color: antiquewhite;
+.header h1{
+   color: rgb(0, 0, 0);
    text-align: center;
-
 }
 
 /*.header .navigation-bar ul {
@@ -38,5 +36,6 @@ body{
   display: flex;
   padding: 10px;
   gap: 55px;
+  justify-content: center;
 }
 
